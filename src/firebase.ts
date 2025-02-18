@@ -2,6 +2,15 @@ import { initializeApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
+// const firebaseConfig = {
+//   apiKey: "AIzaSyBpnUkNNQlTMIJD6FwZ-R1iLLlUPwV44DA",
+//   authDomain: "chat-960d7.firebaseapp.com",
+//   projectId: "chat-960d7",
+//   storageBucket: "chat-960d7.firebasestorage.app",
+//   messagingSenderId: "842540915556",
+//   appId: "1:842540915556:web:2010598b2ea09033f27871"
+// };
+
 const firebaseConfig = {
   apiKey: "AIzaSyDkWyp2rSpm3KZ4pWZcNaoqW5WcWRiZXzc",
   authDomain: "visiondesigne-ed6cd.firebaseapp.com",
